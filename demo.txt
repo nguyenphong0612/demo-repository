@@ -2,3 +2,5 @@ setup gitkraken
 tính năng ghi lại sự thay đổi
 ----------------------------
 có thêm tính năng ghi nhật ký sự thay đổi
+----------------------------------
+implement 6
